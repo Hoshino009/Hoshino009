@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### About Me
-I love learning and improving my skills to turn ideas into reality.
+Focused on writing readable code, automating tasks, and building useful tools no one knew they needed.
 
 ### 🛠️ Tech Stack
 
